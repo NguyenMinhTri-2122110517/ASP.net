@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using NguyenMinhTri_2122110517.Data;
 using NguyenMinhTri_2122110517.Model;
-using System.Collections.Generic;
-using System.Linq;
+using NguyenMinhTri_2122110517.Services;
+using System.ComponentModel.DataAnnotations;
 
 namespace NguyenMinhTri_2122110517.Controllers
 {
@@ -9,71 +11,136 @@ namespace NguyenMinhTri_2122110517.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        // Khởi tạo danh sách rỗng thay vì dữ liệu mẫu
-        private static List<Product> _products = new List<Product>();
+        private readonly AppDbContext _context;
+        private readonly IFileService _fileService;
 
-        // GET: api/Product - Lấy tất cả product
+        public ProductController(AppDbContext context, IFileService fileService)
+        {
+            _context = context;
+            _fileService = fileService;
+        }
+
         [HttpGet]
-        public ActionResult<IEnumerable<Product>> GetAll()
+        public async Task<ActionResult<IEnumerable<Product>>> GetAll()
         {
-            return Ok(_products);
+            return await _context.Products.ToListAsync();
         }
 
-        // GET api/Product/5 - Lấy product theo ID
         [HttpGet("{id}")]
-        public ActionResult<Product> GetById(int id)
+        public async Task<ActionResult<Product>> GetById(int id)
         {
-            var product = _products.FirstOrDefault(p => p.Id == id);
-            if (product == null)
-            {
-                return NotFound("Không tìm thấy sản phẩm với ID này");
-            }
-            return Ok(product);
+            var product = await _context.Products.FindAsync(id);
+            if (product == null) return NotFound("Không tìm thấy sản phẩm với ID này");
+            return product;
         }
 
-        // POST api/Product - Thêm product mới
         [HttpPost]
-        public ActionResult<Product> Create([FromBody] Product newProduct)
+        public async Task<ActionResult<Product>> Create([FromForm] ProductCreateRequest request)
         {
-            // Xử lý trường hợp danh sách rỗng
-            newProduct.Id = _products.Any() ? _products.Max(p => p.Id) + 1 : 1;
-            _products.Add(newProduct);
+            if (!ModelState.IsValid) return BadRequest(ModelState);
 
-            // Trả về kết quả với status 201 Created
+            var imageName = await _fileService.SaveFileAsync(request.Image, "products");
+
+            var newProduct = new Product
+            {
+                Category_Id = request.CategoryId,
+                Brand_Id = request.BrandId,
+                Name = request.Name,
+                Slug = request.Slug,
+                Description = request.Description,
+                Price = request.Price,
+                Content = request.Content,
+                Image = imageName,
+                Created_At = DateTime.UtcNow,
+                Created_By = request.CreatedBy,
+                Status = request.Status
+            };
+
+            _context.Products.Add(newProduct);
+            await _context.SaveChangesAsync();
             return CreatedAtAction(nameof(GetById), new { id = newProduct.Id }, newProduct);
         }
 
-        // PUT api/Product/5 - Cập nhật product
         [HttpPut("{id}")]
-        public IActionResult Update(int id, [FromBody] Product updatedProduct)
+        public async Task<IActionResult> Update(int id, [FromForm] ProductUpdateRequest request)
         {
-            var existingProduct = _products.FirstOrDefault(p => p.Id == id);
-            if (existingProduct == null)
+            if (id != request.Id) return BadRequest();
+
+            var existingProduct = await _context.Products.FindAsync(id);
+            if (existingProduct == null) return NotFound("Không tìm thấy sản phẩm để cập nhật");
+
+            if (request.Image != null)
             {
-                return NotFound("Không tìm thấy sản phẩm để cập nhật");
+                _fileService.DeleteFile(existingProduct.Image, "products");
+                existingProduct.Image = await _fileService.SaveFileAsync(request.Image, "products");
             }
 
-            // Cập nhật thông tin
-            existingProduct.Name = updatedProduct.Name;
-            existingProduct.Image = updatedProduct.Image;
-            existingProduct.Price = updatedProduct.Price;
-            existingProduct.Qty = updatedProduct.Qty;
+            existingProduct.Category_Id = request.CategoryId;
+            existingProduct.Brand_Id = request.BrandId;
+            existingProduct.Name = request.Name;
+            existingProduct.Slug = request.Slug;
+            existingProduct.Description = request.Description;
+            existingProduct.Price = request.Price;
+            existingProduct.Content = request.Content;
+            existingProduct.Updated_At = DateTime.UtcNow;
+            existingProduct.Updated_By = request.UpdatedBy;
+            existingProduct.Status = request.Status;
 
-            return NoContent(); // Status 204 No Content
+            _context.Entry(existingProduct).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+            return NoContent();
         }
 
-        // DELETE api/Product/5 - Xóa product
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
-            var product = _products.FirstOrDefault(p => p.Id == id);
-            if (product == null)
-            {
-                return NotFound("Không tìm thấy sản phẩm để xóa");
-            }
+            var product = await _context.Products.FindAsync(id);
+            if (product == null) return NotFound("Không tìm thấy sản phẩm để xóa");
 
-            _products.Remove(product);
-            return NoContent(); // Status 204 No Content
+            _fileService.DeleteFile(product.Image, "products");
+            _context.Products.Remove(product);
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+
+        [HttpGet("bycategory/{categoryId}")]
+        public async Task<ActionResult<IEnumerable<Product>>> GetByCategoryId(int categoryId)
+        {
+            var products = await _context.Products
+                .Where(p => p.Category_Id == categoryId)
+                .ToListAsync();
+
+            if (!products.Any()) return NotFound("Không tìm thấy sản phẩm nào cho danh mục này");
+            return products;
+        }
+
+        public class ProductCreateRequest
+        {
+            [Required] public int CategoryId { get; set; }
+            [Required] public int BrandId { get; set; }
+            [Required] public string Name { get; set; }
+            [Required] public string Slug { get; set; }
+            public string Description { get; set; }
+            public string Content { get; set; }
+            [Required] public IFormFile Image { get; set; }
+            [Required] public double Price { get; set; }
+            public int CreatedBy { get; set; }
+            public int Status { get; set; }
+        }
+
+        public class ProductUpdateRequest
+        {
+            public int Id { get; set; }
+            [Required] public int CategoryId { get; set; }
+            [Required] public int BrandId { get; set; }
+            [Required] public string Name { get; set; }
+            [Required] public string Slug { get; set; }
+            public string Description { get; set; }
+            public string Content { get; set; }
+            public IFormFile? Image { get; set; }
+            [Required] public double Price { get; set; }
+            public int? UpdatedBy { get; set; }
+            public int Status { get; set; }
         }
     }
 }

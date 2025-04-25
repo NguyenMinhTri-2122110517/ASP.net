@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\wwwroot\\uploads\\banners\\banner-iphone15.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\wwwroot\\uploads\\banners\\banner-iphone15.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\attributes\\filevalidationattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\attributes\\filevalidationattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|d:\\java bao cao\\nguyenminhtri_2122110517\\nguyenminhtri_2122110517\\migrations\\20250421230436_allowupdatedbynull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F06E68-B75C-4D80-BBF0-B8E13420D1AE}|NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517.csproj|solutionrelative:nguyenminhtri_2122110517\\migrations\\20250421230436_allowupdatedbynull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BannerController.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\BannerController.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Controllers\\BannerController.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\BannerController.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Controllers\\BannerController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAADwv7AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Banner.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Model\\Banner.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Banner.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Model\\Banner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Brand.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Model\\Brand.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Brand.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Model\\Brand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Services\\FileService.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Services\\FileService.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Services\\FileService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwEoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Program.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Program.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Controllers\\ConfigController.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Controllers\\ConfigController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\User.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Model\\User.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\User.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:14:42.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "banner-iphone15.jpg - Bitmap [1920x650, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\banners\\banner-iphone15.jpg",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\wwwroot\\uploads\\banners\\banner-iphone15.jpg",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\banners\\banner-iphone15.jpg - Bitmap [1920x650, 24 bit, JPG]",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\wwwroot\\uploads\\banners\\banner-iphone15.jpg - Bitmap [1920x650, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-23T03:12:22.604Z",
+              "EditorCaption": " - Bitmap [1920x650, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileValidationAttributes.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Attributes\\FileValidationAttributes.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Attributes\\FileValidationAttributes.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Attributes\\FileValidationAttributes.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Attributes\\FileValidationAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:06:51.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:46:09.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Post.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Model\\Post.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Post.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Model\\Post.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Menu.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Model\\Menu.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Menu.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Model\\Menu.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250421230436_AllowUpdatedByNull.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Migrations\\20250421230436_AllowUpdatedByNull.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Migrations\\20250421230436_AllowUpdatedByNull.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Migrations\\20250421230436_AllowUpdatedByNull.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Migrations\\20250421230436_AllowUpdatedByNull.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Contact.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Model\\Contact.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Contact.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Model\\Contact.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\UserController.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\appsettings.json",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\appsettings.json",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\appsettings.json",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T07:22:30.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T07:27:17.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Model\\Category.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Category.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Model\\Category.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Model\\Product.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Product.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Model\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Model\\Order.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\Order.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Model\\Order.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA4wA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Model\\OrderDetail.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Model\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TopicController.cs",
+              "DocumentMoniker": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\TopicController.cs",
+              "RelativeDocumentMoniker": "NguyenMinhTri_2122110517\\Controllers\\TopicController.cs",
+              "ToolTip": "D:\\Java Bao Cao\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\Controllers\\TopicController.cs",
+              "RelativeToolTip": "NguyenMinhTri_2122110517\\Controllers\\TopicController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAuwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:30.527Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2220 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "uploads/avatars/10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.cwo4asyzvb.png",
+      "AssetFile": "uploads/avatars/10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:57:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwo4asyzvb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png",
+      "AssetFile": "uploads/avatars/10b821a8-8979-4761-a223-a4c089b43deb_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:57:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.cwo4asyzvb.png",
+      "AssetFile": "uploads/avatars/39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:08:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwo4asyzvb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png",
+      "AssetFile": "uploads/avatars/39105d5a-4159-4c12-807e-b2682f5b1aa3_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:08:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.cwo4asyzvb.png",
+      "AssetFile": "uploads/avatars/48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:06:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwo4asyzvb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png",
+      "AssetFile": "uploads/avatars/48253823-478d-4e49-8618-d802a2a75ccc_Screenshot 2025-04-09 135102.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 23:06:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9I7UhvauvmfFfHXc2HnjKx5SQ/fn6OBKU2dxaSHb1ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/671b321c-ca3c-4377-93b6-67ae5568988e_Nike Pink Vision.0p5pp822y6.webp",
+      "AssetFile": "uploads/avatars/671b321c-ca3c-4377-93b6-67ae5568988e_Nike Pink Vision.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:26:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0p5pp822y6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/671b321c-ca3c-4377-93b6-67ae5568988e_Nike Pink Vision.webp"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/671b321c-ca3c-4377-93b6-67ae5568988e_Nike Pink Vision.webp",
+      "AssetFile": "uploads/avatars/671b321c-ca3c-4377-93b6-67ae5568988e_Nike Pink Vision.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:26:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/84877d3a-e23f-4f2e-9298-540f7a0e3e1a_Screenshot 2025-04-17 071213.iqsyyxyqlv.png",
+      "AssetFile": "uploads/avatars/84877d3a-e23f-4f2e-9298-540f7a0e3e1a_Screenshot 2025-04-17 071213.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BhTNn6B83ty7uTSGHc5P6g17LsIQvXZbGownDX7xmL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iqsyyxyqlv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BhTNn6B83ty7uTSGHc5P6g17LsIQvXZbGownDX7xmL4="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/84877d3a-e23f-4f2e-9298-540f7a0e3e1a_Screenshot 2025-04-17 071213.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/84877d3a-e23f-4f2e-9298-540f7a0e3e1a_Screenshot 2025-04-17 071213.png",
+      "AssetFile": "uploads/avatars/84877d3a-e23f-4f2e-9298-540f7a0e3e1a_Screenshot 2025-04-17 071213.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BhTNn6B83ty7uTSGHc5P6g17LsIQvXZbGownDX7xmL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:01:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BhTNn6B83ty7uTSGHc5P6g17LsIQvXZbGownDX7xmL4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/886960e5-1e23-4e49-81da-920cc09058ab_z6378338533708_d3002f6b171692148ed3536213a0094d.d4hb7xs78c.jpg",
+      "AssetFile": "uploads/avatars/886960e5-1e23-4e49-81da-920cc09058ab_z6378338533708_d3002f6b171692148ed3536213a0094d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k8mj1i1ZyTPXoeNAivKcpbmikArXlCkGtw41ML/etLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 23:16:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4hb7xs78c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k8mj1i1ZyTPXoeNAivKcpbmikArXlCkGtw41ML/etLw="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/886960e5-1e23-4e49-81da-920cc09058ab_z6378338533708_d3002f6b171692148ed3536213a0094d.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/886960e5-1e23-4e49-81da-920cc09058ab_z6378338533708_d3002f6b171692148ed3536213a0094d.jpg",
+      "AssetFile": "uploads/avatars/886960e5-1e23-4e49-81da-920cc09058ab_z6378338533708_d3002f6b171692148ed3536213a0094d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k8mj1i1ZyTPXoeNAivKcpbmikArXlCkGtw41ML/etLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 23:16:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k8mj1i1ZyTPXoeNAivKcpbmikArXlCkGtw41ML/etLw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png",
+      "AssetFile": "uploads/avatars/88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 21:43:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.vh7o83m62o.png",
+      "AssetFile": "uploads/avatars/88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 21:43:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vh7o83m62o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/88cc8cdf-b101-4c2a-88d9-c0fe04c451d1_Screenshot 2025-04-09 134939.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/a4ea363d-43a4-4eb0-bdff-8ecfa3d99930_Screenshot 2025-04-17 071213.iqsyyxyqlv.png",
+      "AssetFile": "uploads/avatars/a4ea363d-43a4-4eb0-bdff-8ecfa3d99930_Screenshot 2025-04-17 071213.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BhTNn6B83ty7uTSGHc5P6g17LsIQvXZbGownDX7xmL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 05:53:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iqsyyxyqlv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BhTNn6B83ty7uTSGHc5P6g17LsIQvXZbGownDX7xmL4="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/a4ea363d-43a4-4eb0-bdff-8ecfa3d99930_Screenshot 2025-04-17 071213.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/a4ea363d-43a4-4eb0-bdff-8ecfa3d99930_Screenshot 2025-04-17 071213.png",
+      "AssetFile": "uploads/avatars/a4ea363d-43a4-4eb0-bdff-8ecfa3d99930_Screenshot 2025-04-17 071213.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BhTNn6B83ty7uTSGHc5P6g17LsIQvXZbGownDX7xmL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 05:53:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BhTNn6B83ty7uTSGHc5P6g17LsIQvXZbGownDX7xmL4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/ee535f5b-1656-4e2e-ab23-0df89dd97bae_Hinh 2.jpeg",
+      "AssetFile": "uploads/avatars/ee535f5b-1656-4e2e-ab23-0df89dd97bae_Hinh 2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UP1yHCdm07ohFjSnuPCl0Y/KLb9Z4angrpTqWNZ2a1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:28:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UP1yHCdm07ohFjSnuPCl0Y/KLb9Z4angrpTqWNZ2a1M="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/avatars/ee535f5b-1656-4e2e-ab23-0df89dd97bae_Hinh 2.wgr9y2y9bx.jpeg",
+      "AssetFile": "uploads/avatars/ee535f5b-1656-4e2e-ab23-0df89dd97bae_Hinh 2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UP1yHCdm07ohFjSnuPCl0Y/KLb9Z4angrpTqWNZ2a1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:28:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wgr9y2y9bx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UP1yHCdm07ohFjSnuPCl0Y/KLb9Z4angrpTqWNZ2a1M="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/avatars/ee535f5b-1656-4e2e-ab23-0df89dd97bae_Hinh 2.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/1997b1f8-e5c4-40c2-813f-a1461fe14327_Nike Air Jordan 1.ghwypcbyfk.jpeg",
+      "AssetFile": "uploads/banners/1997b1f8-e5c4-40c2-813f-a1461fe14327_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 02:57:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghwypcbyfk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/banners/1997b1f8-e5c4-40c2-813f-a1461fe14327_Nike Air Jordan 1.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/1997b1f8-e5c4-40c2-813f-a1461fe14327_Nike Air Jordan 1.jpeg",
+      "AssetFile": "uploads/banners/1997b1f8-e5c4-40c2-813f-a1461fe14327_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 02:57:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/5e5b86fa-4191-4bb1-9141-8dffc7c0f6f0_Nike Air Jordan 1.ghwypcbyfk.jpeg",
+      "AssetFile": "uploads/banners/5e5b86fa-4191-4bb1-9141-8dffc7c0f6f0_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 03:44:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghwypcbyfk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/banners/5e5b86fa-4191-4bb1-9141-8dffc7c0f6f0_Nike Air Jordan 1.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/5e5b86fa-4191-4bb1-9141-8dffc7c0f6f0_Nike Air Jordan 1.jpeg",
+      "AssetFile": "uploads/banners/5e5b86fa-4191-4bb1-9141-8dffc7c0f6f0_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 03:44:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/962bebd5-35aa-4d35-96f5-99c7482a31ce_Nike Air Jordan 1.ghwypcbyfk.jpeg",
+      "AssetFile": "uploads/banners/962bebd5-35aa-4d35-96f5-99c7482a31ce_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 03:44:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghwypcbyfk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/banners/962bebd5-35aa-4d35-96f5-99c7482a31ce_Nike Air Jordan 1.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/962bebd5-35aa-4d35-96f5-99c7482a31ce_Nike Air Jordan 1.jpeg",
+      "AssetFile": "uploads/banners/962bebd5-35aa-4d35-96f5-99c7482a31ce_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 03:44:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/banner-iphone15.jpg",
+      "AssetFile": "uploads/banners/banner-iphone15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aFSz2Fzn802UPWhgiPvr3yZaucT0cBV+cDOQQvLMKTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 05:12:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aFSz2Fzn802UPWhgiPvr3yZaucT0cBV+cDOQQvLMKTc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/banner-iphone15.srrsw8rtzq.jpg",
+      "AssetFile": "uploads/banners/banner-iphone15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aFSz2Fzn802UPWhgiPvr3yZaucT0cBV+cDOQQvLMKTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 05:12:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "srrsw8rtzq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aFSz2Fzn802UPWhgiPvr3yZaucT0cBV+cDOQQvLMKTc="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/banners/banner-iphone15.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/c04bacca-74dc-4ba1-999b-f4a5ec8218a9_Jordan Retro Dragon.jpg",
+      "AssetFile": "uploads/banners/c04bacca-74dc-4ba1-999b-f4a5ec8218a9_Jordan Retro Dragon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZMO9waMQtiVL+ASiXLq/bAnt+OBmHrJHn2pwAHeVI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 03:07:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TZMO9waMQtiVL+ASiXLq/bAnt+OBmHrJHn2pwAHeVI0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/c04bacca-74dc-4ba1-999b-f4a5ec8218a9_Jordan Retro Dragon.jsb40i5uwi.jpg",
+      "AssetFile": "uploads/banners/c04bacca-74dc-4ba1-999b-f4a5ec8218a9_Jordan Retro Dragon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZMO9waMQtiVL+ASiXLq/bAnt+OBmHrJHn2pwAHeVI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 03:07:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jsb40i5uwi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TZMO9waMQtiVL+ASiXLq/bAnt+OBmHrJHn2pwAHeVI0="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/banners/c04bacca-74dc-4ba1-999b-f4a5ec8218a9_Jordan Retro Dragon.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/c38ee22a-8b54-450e-a501-e9b2eaab6dbe_Nike Pink Vision.0p5pp822y6.webp",
+      "AssetFile": "uploads/banners/c38ee22a-8b54-450e-a501-e9b2eaab6dbe_Nike Pink Vision.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:20:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0p5pp822y6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/banners/c38ee22a-8b54-450e-a501-e9b2eaab6dbe_Nike Pink Vision.webp"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/c38ee22a-8b54-450e-a501-e9b2eaab6dbe_Nike Pink Vision.webp",
+      "AssetFile": "uploads/banners/c38ee22a-8b54-450e-a501-e9b2eaab6dbe_Nike Pink Vision.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:20:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/d633bbb0-8148-4409-9310-fd310c14d253_Van Suede Gray.uq9ctz2owb.webp",
+      "AssetFile": "uploads/banners/d633bbb0-8148-4409-9310-fd310c14d253_Van Suede Gray.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VoVkCFsyukwsFLZ68kiC7sUpqlGNC1vJaWLLD4ENh+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:18:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uq9ctz2owb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VoVkCFsyukwsFLZ68kiC7sUpqlGNC1vJaWLLD4ENh+k="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/banners/d633bbb0-8148-4409-9310-fd310c14d253_Van Suede Gray.webp"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/banners/d633bbb0-8148-4409-9310-fd310c14d253_Van Suede Gray.webp",
+      "AssetFile": "uploads/banners/d633bbb0-8148-4409-9310-fd310c14d253_Van Suede Gray.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VoVkCFsyukwsFLZ68kiC7sUpqlGNC1vJaWLLD4ENh+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:18:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VoVkCFsyukwsFLZ68kiC7sUpqlGNC1vJaWLLD4ENh+k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.2bs9doqdan.png",
+      "AssetFile": "uploads/categories/6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94456"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmRaAZmcYz0r/8uj7UbzriWDtHlxRDmmWy3v4Ix+07s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 21:16:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2bs9doqdan"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmRaAZmcYz0r/8uj7UbzriWDtHlxRDmmWy3v4Ix+07s="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png",
+      "AssetFile": "uploads/categories/6167f6ce-b522-4db1-a6bc-5b6c0fd92237_Screenshot 2025-04-06 193742.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94456"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmRaAZmcYz0r/8uj7UbzriWDtHlxRDmmWy3v4Ix+07s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 21:16:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmRaAZmcYz0r/8uj7UbzriWDtHlxRDmmWy3v4Ix+07s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/posts/0b9413f4-ff3f-466e-9a32-4bf84dac5f4d_Nike Air Jordan 1.ghwypcbyfk.jpeg",
+      "AssetFile": "uploads/posts/0b9413f4-ff3f-466e-9a32-4bf84dac5f4d_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 07:24:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghwypcbyfk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/posts/0b9413f4-ff3f-466e-9a32-4bf84dac5f4d_Nike Air Jordan 1.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/posts/0b9413f4-ff3f-466e-9a32-4bf84dac5f4d_Nike Air Jordan 1.jpeg",
+      "AssetFile": "uploads/posts/0b9413f4-ff3f-466e-9a32-4bf84dac5f4d_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 07:24:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/posts/112b4f52-2fea-4a70-8dcf-023bbffd9665_Nike Air Jordan 1.ghwypcbyfk.jpeg",
+      "AssetFile": "uploads/posts/112b4f52-2fea-4a70-8dcf-023bbffd9665_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:07:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghwypcbyfk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/posts/112b4f52-2fea-4a70-8dcf-023bbffd9665_Nike Air Jordan 1.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/posts/112b4f52-2fea-4a70-8dcf-023bbffd9665_Nike Air Jordan 1.jpeg",
+      "AssetFile": "uploads/posts/112b4f52-2fea-4a70-8dcf-023bbffd9665_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:07:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/posts/15fe9a2a-e6bc-4ad7-9bee-f77808f51c87_Nike Air Jordan 1.ghwypcbyfk.jpeg",
+      "AssetFile": "uploads/posts/15fe9a2a-e6bc-4ad7-9bee-f77808f51c87_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 07:24:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghwypcbyfk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/posts/15fe9a2a-e6bc-4ad7-9bee-f77808f51c87_Nike Air Jordan 1.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/posts/15fe9a2a-e6bc-4ad7-9bee-f77808f51c87_Nike Air Jordan 1.jpeg",
+      "AssetFile": "uploads/posts/15fe9a2a-e6bc-4ad7-9bee-f77808f51c87_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 07:24:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/0711e997-6b1a-499a-a17d-f2cfd15d0cb9_Nike Air Jordan 1.ghwypcbyfk.jpeg",
+      "AssetFile": "uploads/products/0711e997-6b1a-499a-a17d-f2cfd15d0cb9_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 02:00:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghwypcbyfk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/0711e997-6b1a-499a-a17d-f2cfd15d0cb9_Nike Air Jordan 1.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/0711e997-6b1a-499a-a17d-f2cfd15d0cb9_Nike Air Jordan 1.jpeg",
+      "AssetFile": "uploads/products/0711e997-6b1a-499a-a17d-f2cfd15d0cb9_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 02:00:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/08043926-d308-48fd-b169-e83fe58c2ff6_Nike Air Force 1.jpeg",
+      "AssetFile": "uploads/products/08043926-d308-48fd-b169-e83fe58c2ff6_Nike Air Force 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UnwbZAiX0G0gMv+mG9wmWDsKNB8vJa76LXTNRFWB+OA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 04:15:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UnwbZAiX0G0gMv+mG9wmWDsKNB8vJa76LXTNRFWB+OA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/08043926-d308-48fd-b169-e83fe58c2ff6_Nike Air Force 1.ywndeda0er.jpeg",
+      "AssetFile": "uploads/products/08043926-d308-48fd-b169-e83fe58c2ff6_Nike Air Force 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UnwbZAiX0G0gMv+mG9wmWDsKNB8vJa76LXTNRFWB+OA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 04:15:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ywndeda0er"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UnwbZAiX0G0gMv+mG9wmWDsKNB8vJa76LXTNRFWB+OA="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/08043926-d308-48fd-b169-e83fe58c2ff6_Nike Air Force 1.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/5deb6b43-ee01-490b-99c0-f032f68282f6_Nike Air Jordan 1.ghwypcbyfk.jpeg",
+      "AssetFile": "uploads/products/5deb6b43-ee01-490b-99c0-f032f68282f6_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 02:00:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghwypcbyfk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/5deb6b43-ee01-490b-99c0-f032f68282f6_Nike Air Jordan 1.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/5deb6b43-ee01-490b-99c0-f032f68282f6_Nike Air Jordan 1.jpeg",
+      "AssetFile": "uploads/products/5deb6b43-ee01-490b-99c0-f032f68282f6_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 02:00:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/ac8f7f6a-3562-4df5-bf3e-138043e42a5c_Nike Pink Vision.0p5pp822y6.webp",
+      "AssetFile": "uploads/products/ac8f7f6a-3562-4df5-bf3e-138043e42a5c_Nike Pink Vision.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 04:12:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0p5pp822y6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/ac8f7f6a-3562-4df5-bf3e-138043e42a5c_Nike Pink Vision.webp"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/ac8f7f6a-3562-4df5-bf3e-138043e42a5c_Nike Pink Vision.webp",
+      "AssetFile": "uploads/products/ac8f7f6a-3562-4df5-bf3e-138043e42a5c_Nike Pink Vision.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 04:12:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FGIssofaagVyc3E7qxsD3ELtTldiQUoDvbLeg4w2Rh0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png",
+      "AssetFile": "uploads/products/ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 03:39:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.vh7o83m62o.png",
+      "AssetFile": "uploads/products/ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 03:39:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vh7o83m62o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DfDehkCtH+2Pm3xDiYs8XJVjYmtlv8ycOiv86EZk5Vo="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/ad50e06b-4737-426a-972b-ad991c7845e4_Screenshot 2025-04-09 134939.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/d536baae-f2ea-47a1-b283-722495cb7f7c_Nike Spark Women's Shoes.hwaskny7j0.jpeg",
+      "AssetFile": "uploads/products/d536baae-f2ea-47a1-b283-722495cb7f7c_Nike Spark Women's Shoes.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MVZQORCiwpZm361GiDzxtet79SmZcH5imSZXsfvxm28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 04:03:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hwaskny7j0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MVZQORCiwpZm361GiDzxtet79SmZcH5imSZXsfvxm28="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/d536baae-f2ea-47a1-b283-722495cb7f7c_Nike Spark Women's Shoes.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/d536baae-f2ea-47a1-b283-722495cb7f7c_Nike Spark Women's Shoes.jpeg",
+      "AssetFile": "uploads/products/d536baae-f2ea-47a1-b283-722495cb7f7c_Nike Spark Women's Shoes.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MVZQORCiwpZm361GiDzxtet79SmZcH5imSZXsfvxm28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 04:03:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MVZQORCiwpZm361GiDzxtet79SmZcH5imSZXsfvxm28="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/f5862891-7a7f-428e-b016-185ac30ff36d_Nike Air Jordan 1.ghwypcbyfk.jpeg",
+      "AssetFile": "uploads/products/f5862891-7a7f-428e-b016-185ac30ff36d_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 01:54:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghwypcbyfk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/f5862891-7a7f-428e-b016-185ac30ff36d_Nike Air Jordan 1.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/f5862891-7a7f-428e-b016-185ac30ff36d_Nike Air Jordan 1.jpeg",
+      "AssetFile": "uploads/products/f5862891-7a7f-428e-b016-185ac30ff36d_Nike Air Jordan 1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 01:54:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9HGiTgBZeGEWuvPzJMo6f8laf3S0DEKiuwxtftQZl80="
+        }
+      ]
+    }
+  ]
+}

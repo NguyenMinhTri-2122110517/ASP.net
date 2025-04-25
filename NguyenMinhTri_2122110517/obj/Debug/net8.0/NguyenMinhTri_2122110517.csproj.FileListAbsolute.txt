@@ -167,3 +167,526 @@ D:\ASP.net\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru
 D:\ASP.net\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\ASP.net\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\ASP.net\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.sourcelink.json
+D:\ASP.net\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ASP.net\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\ASP.net\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.staticwebassets.runtime.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\appsettings.Development.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\appsettings.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.staticwebassets.runtime.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.staticwebassets.endpoints.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.exe
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.deps.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.runtimeconfig.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.pdb
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Azure.Core.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Azure.Identity.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Humanizer.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.ClientModel.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.CodeDom.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Text.Json.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.csproj.AssemblyReference.cache
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.AssemblyInfoInputs.cache
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.AssemblyInfo.cs
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.csproj.CoreCompileInputs.cache
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.MvcApplicationPartsAssemblyInfo.cs
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.MvcApplicationPartsAssemblyInfo.cache
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.sourcelink.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\scopedcss\bundle\NguyenMinhTri_2122110517.styles.css
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets.build.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets.development.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.NguyenMinhTri_2122110517.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.NguyenMinhTri_2122110517.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.build.NguyenMinhTri_2122110517.props
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NguyenMinhTri_2122110517.props
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NguyenMinhTri_2122110517.props
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMi.6265188F.Up2Date
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\refint\NguyenMinhTri_2122110517.dll
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.pdb
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.genruntimeconfig.cache
+D:\Java Bao Cao\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\ref\NguyenMinhTri_2122110517.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\appsettings.Development.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\appsettings.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.staticwebassets.runtime.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.exe
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.deps.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.runtimeconfig.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.pdb
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Azure.Core.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Azure.Identity.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Humanizer.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.ClientModel.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.CodeDom.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Memory.Data.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Text.Json.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.csproj.AssemblyReference.cache
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.AssemblyInfoInputs.cache
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.AssemblyInfo.cs
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.csproj.CoreCompileInputs.cache
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.MvcApplicationPartsAssemblyInfo.cs
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.MvcApplicationPartsAssemblyInfo.cache
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.sourcelink.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets.build.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets.development.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.NguyenMinhTri_2122110517.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.build.NguyenMinhTri_2122110517.props
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NguyenMinhTri_2122110517.props
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NguyenMinhTri_2122110517.props
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets.pack.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\scopedcss\bundle\NguyenMinhTri_2122110517.styles.css
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.csproj.CopyComplete
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\refint\NguyenMinhTri_2122110517.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.pdb
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.genruntimeconfig.cache
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\ref\NguyenMinhTri_2122110517.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\appsettings.Development.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\appsettings.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.staticwebassets.runtime.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.exe
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.deps.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.runtimeconfig.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\NguyenMinhTri_2122110517.pdb
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Azure.Core.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Azure.Identity.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Humanizer.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.ClientModel.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.CodeDom.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Memory.Data.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Text.Json.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.csproj.AssemblyReference.cache
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.AssemblyInfoInputs.cache
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.AssemblyInfo.cs
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.csproj.CoreCompileInputs.cache
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.MvcApplicationPartsAssemblyInfo.cs
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.MvcApplicationPartsAssemblyInfo.cache
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.sourcelink.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets.build.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets.development.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.NguyenMinhTri_2122110517.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.build.NguyenMinhTri_2122110517.props
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NguyenMinhTri_2122110517.props
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NguyenMinhTri_2122110517.props
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\staticwebassets.pack.json
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\scopedcss\bundle\NguyenMinhTri_2122110517.styles.css
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.csproj.CopyComplete
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\refint\NguyenMinhTri_2122110517.dll
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.pdb
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\NguyenMinhTri_2122110517.genruntimeconfig.cache
+D:\NguyenMinhTri_2122110517\NguyenMinhTri_2122110517\obj\Debug\net8.0\ref\NguyenMinhTri_2122110517.dll

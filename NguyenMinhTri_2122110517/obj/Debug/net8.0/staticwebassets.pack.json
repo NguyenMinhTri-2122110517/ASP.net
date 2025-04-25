@@ -1,0 +1,225 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\avatars\\admin.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\admin.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\avatars\\de1aeaf7-dafb-4696-ae2b-fcadfa3ffdfe_z6378338533708_d3002f6b171692148ed3536213a0094d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\de1aeaf7-dafb-4696-ae2b-fcadfa3ffdfe_z6378338533708_d3002f6b171692148ed3536213a0094d.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\avatars\\user1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\user1.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\avatars\\user2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\user2.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\banners\\banner1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\banners\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\banners\\banner2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\banners\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\banners\\banner3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\banners\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\banners\\banner4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\banners\\banner4.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\brands\\apple.png",
+      "PackagePath": "staticwebassets\\uploads\\brands\\apple.png"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\brands\\oppo.png",
+      "PackagePath": "staticwebassets\\uploads\\brands\\oppo.png"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\brands\\realme.png",
+      "PackagePath": "staticwebassets\\uploads\\brands\\realme.png"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\brands\\samsung.png",
+      "PackagePath": "staticwebassets\\uploads\\brands\\samsung.png"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\brands\\vivo.png",
+      "PackagePath": "staticwebassets\\uploads\\brands\\vivo.png"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\brands\\xiaomi.jpg",
+      "PackagePath": "staticwebassets\\uploads\\brands\\xiaomi.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\categories\\accessories.jpg",
+      "PackagePath": "staticwebassets\\uploads\\categories\\accessories.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\categories\\earphone.jpg",
+      "PackagePath": "staticwebassets\\uploads\\categories\\earphone.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\categories\\iphone.jpg",
+      "PackagePath": "staticwebassets\\uploads\\categories\\iphone.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\categories\\phone.jpg",
+      "PackagePath": "staticwebassets\\uploads\\categories\\phone.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\categories\\powerbank.jpg",
+      "PackagePath": "staticwebassets\\uploads\\categories\\powerbank.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\posts\\airtag.jpg",
+      "PackagePath": "staticwebassets\\uploads\\posts\\airtag.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\posts\\iphone15.jpg",
+      "PackagePath": "staticwebassets\\uploads\\posts\\iphone15.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\posts\\khuyenmai.jpg",
+      "PackagePath": "staticwebassets\\uploads\\posts\\khuyenmai.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\posts\\s23ultra.jpg",
+      "PackagePath": "staticwebassets\\uploads\\posts\\s23ultra.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\10proplus.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\10proplus.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\12tpro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\12tpro.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\a53.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\a53.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\a73.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\a73.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\a77s.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\a77s.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\c55.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\c55.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\gtneo5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\gtneo5.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\iphone12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\iphone12.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\iphone13.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\iphone13.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\iphone14.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\iphone14.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\iphone14pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\iphone14pro.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\iphone14promax.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\iphone14promax.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\n2flip.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\n2flip.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\note12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\note12.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\note12pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\note12pro.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\note12proplus.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\note12proplus.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\reno8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\reno8.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\reno8pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\reno8pro.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\s23.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\s23.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\s23plus.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\s23plus.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\s23ultra.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\s23ultra.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\v25.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\v25.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\v27pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\v27pro.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\x90pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\x90pro.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\xiaomi13.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\xiaomi13.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\xiaomi13pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\xiaomi13pro.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\zflip4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\zflip4.jpg"
+    },
+    {
+      "Id": "D:\\NguyenMinhTri_2122110517\\NguyenMinhTri_2122110517\\wwwroot\\uploads\\products\\zfold4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\zfold4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NguyenMinhTri_2122110517.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NguyenMinhTri_2122110517.props",
+      "PackagePath": "build\\NguyenMinhTri_2122110517.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NguyenMinhTri_2122110517.props",
+      "PackagePath": "buildMultiTargeting\\NguyenMinhTri_2122110517.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NguyenMinhTri_2122110517.props",
+      "PackagePath": "buildTransitive\\NguyenMinhTri_2122110517.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
